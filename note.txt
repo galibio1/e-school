@@ -1,0 +1,45 @@
+font family---------
+pop-
+400,700,500
+ font-family: "Poppins", sans-serif;
+
+rob
+400
+font-family: "Roboto", sans-serif;
+
+color---------------
+green- background: #21B573;
+black- background: #000000;
+orange-background: #FD511A;
+pur   -background: #413960;
+ash   -background: #585859;
+semi black background: #282531;
+white -background: #FFFFFF;
+
+
+padding->
+
+xxl/xl/lg       md          sm/col
+header top bottom
+
+100             80              70/60
+
+banner bottom
+65              65              65
+
+banner h1
+48              48              35
+
+feature pb 100/80/60
+
+courses title
+36              36              28
+
+
+
+
+
+
+
+
+
